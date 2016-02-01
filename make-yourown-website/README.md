@@ -33,7 +33,7 @@ We will be covering git and github tomorrow, so there is not a specific 'Turn In
 
 ## Notes
 
-[Please visit the notes from today](https://github.com/TIY-Charleston-Front-End-Oct2015/notes/blob/master/01-terminal-html-css.md)
+[Please visit the notes from today](https://github.com/TIY-Charleston-Front-End-February2016/notes/blob/master/01-terminal-html-css.md)
 
 ## Additional Resources
 
